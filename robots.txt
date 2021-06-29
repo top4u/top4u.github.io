@@ -1,1 +1,7 @@
 User-agent: *
+Allow: /
+Disallow:{{.Site.BaseURL}}/categories/
+Disallow:{{.Site.BaseURL}}/Page/
+
+Sitemap: https://freshersoft.com/sitemap.xml
+Allow:/
